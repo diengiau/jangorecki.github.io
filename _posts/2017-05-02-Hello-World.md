@@ -9,10 +9,10 @@ Steps by steps to blog:
 
 At the top of the file, put these things:
 >---
-layout: post
-title: Hello World
-tags: jekyll knitr github.io
----
+>layout: post
+>title: Hello World
+>tags: jekyll knitr github.io
+>---
 
 2. After finish, run code `knitr::knit` to get the md file
 
