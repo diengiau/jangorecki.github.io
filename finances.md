@@ -4,5 +4,7 @@ title: Finance
 permalink: /finances/
 ---
 
-* [R-bloggers](http://www.r-bloggers.com/)
-* [data.table](https://github.com/Rdatatable/data.table/wiki)
+
+## 1. Asset pricing
+There are some useful classes such as
+* [Cochrane](http://faculty.chicagobooth.edu/john.cochrane/teaching/asset_pricing.htm)
