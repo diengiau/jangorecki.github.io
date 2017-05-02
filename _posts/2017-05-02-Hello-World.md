@@ -8,12 +8,13 @@ Steps by steps to blog:
 1. Write the `.Rmd` file in _scripts
 
 At the top of the file, put these things:
->---
->layout: post
->title: Hello World
->tags: jekyll knitr github.io
->---
-
+```r
+---
+layout: post
+title: Hello World
+tags: jekyll knitr github.io
+---
+```
 2. After finish, run code `knitr::knit` to get the md file
 
 ```{r usage, eval=FALSE, echo = FALSE}
