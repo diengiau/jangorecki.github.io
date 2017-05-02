@@ -14,4 +14,4 @@ Or [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2494339)
 
 ### Contact
 
-Email me: [buidiengiau@gmail.com](buidiengiau@gmail.com).
+Email me: `buidiengiau@gmail.com`
