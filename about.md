@@ -4,30 +4,14 @@ title: About
 permalink: /about/
 ---
 
-- DW/BI developer
+I'm a PhD student in Finance. I like R and python. This blog is to share R related things. And of course, my thoughts too.
 
-  - Dimensional data modelling
-  - SQL
-  - Procedural SQL
-  - ETL packages
-  - Reporting tools
+My [CV](/images/CV-DienGiauBui-20161202.pdf)
 
-- R developer
+Or [twitter](https://twitter.com/BuiDienGiau)
 
-  - R packages development
-  - High performance data processing
-  - Time series data analysis
-  - Rmarkdown automated reporting
-  - Shiny framework web dashboards
+Or [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2494339)
 
-- Infrastructure
+### Contact
 
-  - Ubuntu Server
-  - Docker
-  - VirtualBox
-  - Git
-  - Continuous Integration
-
-### Contact me
-
-`j.gorecki@wit.edu.pl || jangorecki@protonmail.ch`
+Email me: [buidiengiau@gmail.com](buidiengiau@gmail.com).
