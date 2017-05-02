@@ -18,4 +18,5 @@ knitr::knit("2014-11-05-Hello-World.Rmd")
 ```
 
 Jan
+
 [Source](http://jangorecki.github.io/)
