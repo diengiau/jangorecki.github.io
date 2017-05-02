@@ -17,9 +17,9 @@ tags: jekyll knitr github.io
 ```
 2. After finish, run code `knitr::knit` to get the md file
 
-```{r usage, eval=FALSE, echo = FALSE}
+```r
 setwd("/_scripts")
-knitr::knit("2014-11-05-Hello-World.Rmd")
+knitr::knit("2017-05-02-Hello-World.Rmd")
 ```
 3. Then copy the file to _posts
 
