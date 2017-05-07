@@ -8,7 +8,7 @@ I'm a PhD student in Finance. I like R and python. This blog is to share R relat
 
 My [CV](/images/CV-DienGiauBui-20161202.pdf)
 
-Or [twitter](https://twitter.com/BuiDienGiau)
+Or [twitter](https://twitter.com/buidiengiau)
 
 Or [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2494339)
 
