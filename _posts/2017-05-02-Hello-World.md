@@ -5,6 +5,7 @@ tags: jekyll knitr github.io
 ---
 
 Steps by steps to blog:
+
 ### 1. Write the `.Rmd` file in _scripts
 
 At the top of the file, put these things:
@@ -25,3 +26,6 @@ knitr::knit("2017-05-02-Hello-World.Rmd")
 
 Richard
 
+```{r usage, eval=FALSE}
+knitr::knit("2017-05-08-Recipe-to-build-R-Package.Rmd")
+```
