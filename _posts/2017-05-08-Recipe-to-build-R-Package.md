@@ -17,7 +17,7 @@ tags: R package
     
 - Show up
     + github and build it a page
-    + share as much as possible, if you have someone to share <f0><U+009F><U+0098><U+0084>
+    + share as much as possible, if you have someone to share :+1:
 
 ### 2. But how to find the idea? 
 Learn from other package, here are some of my favorite:
