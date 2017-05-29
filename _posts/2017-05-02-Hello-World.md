@@ -27,6 +27,6 @@ knitr::knit("2017-05-02-Hello-World.Rmd")
 Richard
 :laughing::laughing::laughing:
 
-```{r usage, eval=FALSE include=FALSE}
+```{r usage, include=FALSE}
 knitr::knit("2017-05-08-Recipe-to-build-R-Package.Rmd")
 ```
