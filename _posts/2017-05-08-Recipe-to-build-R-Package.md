@@ -17,6 +17,7 @@ tags: R package
     
 - Show up
     + github and build it a page
+    + When building the package, you should write a description for the project. Sometimes, a [emoji](https://www.webpagefx.com/tools/emoji-cheat-sheet/) will be useful to make the work less boring.
     + share as much as possible, if you have someone to share :+1:
 
 ### 2. But how to find the idea? 
