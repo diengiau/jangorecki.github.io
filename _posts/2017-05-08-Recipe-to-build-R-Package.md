@@ -9,6 +9,7 @@ tags: R package
 - Testing the package
     + Why your code is too slow and how to improve: [`profvis`](https://t.co/sOtn64Zvb1)
     + `testthat`
+    + [Bruno](http://www.brodrigues.co/) has a useful book about R-package
     + parallel it: I think `future` is a good one, although I often use `parallel`
     + vectorization or functional: [here](http://adv-r.had.co.nz/Functionals.html) is one greate advice from my favorite, Hadley 
 
