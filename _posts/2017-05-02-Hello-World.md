@@ -25,7 +25,8 @@ knitr::knit("2017-05-02-Hello-World.Rmd")
 ### 3. Then copy the file to _posts
 
 Richard
+:laughing::laughing::laughing:
 
-```{r usage, eval=FALSE}
+```{r usage, eval=FALSE include=FALSE}
 knitr::knit("2017-05-08-Recipe-to-build-R-Package.Rmd")
 ```
