@@ -25,7 +25,7 @@ tags: R package
 Learn from other package, here are some of my favorite:
 
 - Emoji in markdown: [`emo`](https://github.com/hadley/emo)
-- `tidyr`: which use can use [`nest`](https://blog.rstudio.org/2016/02/02/tidyr-0-4-0/)
+- `tidyr`: which we can use [`nest`](https://blog.rstudio.org/2016/02/02/tidyr-0-4-0/)
 
 
 Richard
