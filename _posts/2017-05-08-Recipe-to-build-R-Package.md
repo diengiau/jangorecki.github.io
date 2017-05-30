@@ -15,6 +15,7 @@ tags: R package
 
 - Build package
     + Most easiest: from [Hilary](https://hilaryparker.com/2014/04/29/writing-an-r-package-from-scratch/)
+    + a comprehensive one: from [Matt Denny](http://www.mjdenny.com/R_Package_Pictorial.html)
     
 - Show up
     + github and build it a page
