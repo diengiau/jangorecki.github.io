@@ -1,6 +1,6 @@
 ---
 layout: post
-title:cointreau-recipes
+title: Cocktail recipes
 tags: cocktail cointreau
 ---
 
