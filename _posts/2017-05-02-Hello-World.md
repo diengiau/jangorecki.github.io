@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hello World
-tags: jekyll knitr github.io
+tags: 
 ---
 
 Steps by steps to blog:
