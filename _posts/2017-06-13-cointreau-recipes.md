@@ -1,0 +1,14 @@
+---
+layout: post
+title:cointreau-recipes
+tags: cocktail cointreau
+---
+
+# 1. Lime, [cointreau](http://www.cointreau.com/us/en/cocktails), gin, and soda
+
+- 1/2 of lemon
+- 1 shot of gin
+- Stir it first
+- 1/2 shot of [cointreau](http://www.cointreau.com/us/en/cocktails)
+- Soda
+- Put ice for your favor
