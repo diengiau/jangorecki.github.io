@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cocktail recipes
-tags: cocktail cointreau
+tags: cocktail
 ---
 
 # 1. Lime, [cointreau](http://www.cointreau.com/us/en/cocktails), gin, and soda

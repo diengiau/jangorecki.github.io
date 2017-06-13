@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My daily life with R
-tags:
+tags: R
 ---
 
 Just added some new tool in my personal `R` package. My daily life now is easier:
