@@ -15,3 +15,7 @@ Or [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2494339)
 ### Contact
 
 Email me: `buidiengiau@gmail.com`
+
+### Publications
+
+1. Do Political Factors Affect Stock Returns during Presidential Elections? (with Chung-Hua Shen, Chih-Yung Lin) (accepted by [JIMF](https://www.journals.elsevier.com/journal-of-international-money-and-finance/) in July 2017)
