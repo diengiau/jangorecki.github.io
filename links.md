@@ -1,9 +1,12 @@
 ---
 layout: page
-title: Links
+title: Code
 permalink: /links/
 ---
 
-* [R-bloggers](http://www.r-bloggers.com/)
-* [data.table](https://github.com/Rdatatable/data.table/wiki)
+## Some R codes using in my work 
+
+1. Download regional data by State from Fed: [here](https://gist.github.com/diengiau/fc37d7e97309a7482a7b17222e3ce8d7)
+
+
 
