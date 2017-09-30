@@ -25,4 +25,6 @@ Email me: `buidiengiau@gmail.com`
 
 ### Publications
 
-1. Do Political Factors Affect Stock Returns during Presidential Elections? (with Chung-Hua Shen, Chih-Yung Lin) (accepted by [JIMF](https://www.journals.elsevier.com/journal-of-international-money-and-finance/) in July 2017)
+1. Do Political Factors Affect Stock Returns during Presidential Elections? (with Chung-Hua Shen, Chih-Yung Lin) (2017) [JIMF](https://www.journals.elsevier.com/journal-of-international-money-and-finance/)
+
+2. Can Lenders Discern Managerial Ability from Luck? Evidence from Bank Loan Contracts (with Yan-Shing Chen, Iftekhar Hasan, Chih-Yung Lin) (accepted by [JBF](https://www.journals.elsevier.com/journal-of-banking-and-finance) in September 2017)
