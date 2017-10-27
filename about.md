@@ -6,7 +6,7 @@ permalink: /about/
 
 I'm a PhD student in Finance. I like R and python. This blog is to share R and Finance related things. And of course, my thoughts too.
 
-My [CV](/images/CV-DienGiauBui-20171001-short.pdf)
+My [CV](/images/CV-DienGiauBui - 20171026.pdf)
 
 Or [twitter](https://twitter.com/buidiengiau)
 
