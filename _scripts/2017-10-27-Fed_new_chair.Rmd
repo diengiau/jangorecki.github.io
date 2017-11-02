@@ -20,7 +20,7 @@ It will be updated when I read new interesting things about this topic.
 
 >“Simple policy rules are widely thought to be both interesting and useful, but to represent only a small part of the analysis needed to assess the appropriate path for policy. I am unable to think of any critical, complex human activity that could be safely reduced to a simple summary equation. In particular, no major central bank uses policy rules in a prescriptive way, and it is hard to predict the consequences of requiring the [Federal Open Market Committee] to do so, as some have proposed. policy should be systematic, but not automatic.” (Powell, 2017 February)
 
-:laugh: this simple summary equation is Taylor rule?
+:laughing: this simple summary equation is Taylor rule?
 
 
 ### 2. Some links about monetary polices
