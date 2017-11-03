@@ -22,6 +22,7 @@ It will be updated when I read new interesting things about this topic.
 
 :laughing: this simple summary equation is Taylor rule?
 
+- Game over for Taylor. On Nov 2, Trump announced his choice is Powell, with background in lawyer, as new Fed. Yellen leaves the chair after only 4 years, despite successes during her tenure. _The Economist_ draws two graphs of median inflation rate and misery rate (i.e., inflation + unemployment) and she seems to be better than her recent male precedessors such as Bernanke and Greenspan (his median misery rate is nearly 20% :scream::scream:).
 
 ### 2. Some links about monetary polices
 - A recent monetary policy report by [Yellen](https://www.federalreserve.gov/monetarypolicy/files/20170707_mprfullreport.pdf).
